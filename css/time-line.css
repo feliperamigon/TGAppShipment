@@ -114,7 +114,6 @@
 .timeline .timeline-body>p,
 .timeline .timeline-body>ul {
     margin-bottom: 0;
-    color:#808080;
 }
 /*Style for even div.line*/
 .timeline>li:nth-child(odd) .line:before {
